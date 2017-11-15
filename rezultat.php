@@ -13,7 +13,7 @@
     if($_POST['G']>=18)
     {
         echo('<span style="color: green">'.$_POST['G'].'godina'.'</span>');
-        echo(' ZA SEKS SPERMNI ');
+        echo(' za SEKS SPERMNI ');
     }
     else
     {
